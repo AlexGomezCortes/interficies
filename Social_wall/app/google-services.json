@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5522109872",
+    "firebase_url": "https://socialwall-2925a.firebaseio.com",
+    "project_id": "socialwall-2925a",
+    "storage_bucket": "socialwall-2925a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5522109872:android:cb9a6054670c0e7c",
+        "android_client_info": {
+          "package_name": "goms.social_wall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5522109872-p3ov4po36u94e9i184kmal6f1jubbhgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "goms.social_wall",
+            "certificate_hash": "ef0c3aca5dfdf96176648b0887308bfa70f0299a"
+          }
+        },
+        {
+          "client_id": "5522109872-umv1is6032t3he9qicoua0be2c966vkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLsGQ54d-wqiYBiQV3yDXIOxQoTqyvFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5522109872-umv1is6032t3he9qicoua0be2c966vkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
