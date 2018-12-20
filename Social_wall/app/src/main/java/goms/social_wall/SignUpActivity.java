@@ -110,7 +110,7 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
                             user_.put("username", username);
 
                             db.collection("users")
-                                    .document("people")
+                                    .document(user.getUid())
                                     .set(user_);
 
 
